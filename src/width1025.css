@@ -1,0 +1,10 @@
+
+    @media screen and (max-width:1024px){
+        .section{
+            margin:1.2rem;
+            
+        }
+        .container{
+            height:54%;
+        }
+    }
